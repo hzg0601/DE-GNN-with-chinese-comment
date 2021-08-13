@@ -1,4 +1,8 @@
 # Distance-encoding for GNN design
+
+1, 将函数各个模块分割为函数，并为函数注释
+
+
 This repository is the official PyTorch implementation of the *DEGNN* and *DEAGNN* framework reported in the paper: <br>
 [*Distance-Encoding -- Design Provably More PowerfulGNNs for Structural Representation Learning*](https://arxiv.org/abs/2009.00142), to appear in NeurIPS 2020. 
 
